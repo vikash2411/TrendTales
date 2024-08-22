@@ -1,6 +1,6 @@
 # TrendTales
 
-**TrendTales** is a modern, fully-featured blogging platform designed for sharing your stories, ideas, and insights with the world. Built with a focus on performance and scalability, TrendTales leverages cutting-edge technologies to deliver a seamless user experience.
+**TrendTales** is a modern, fully-featured blogging platform designed for sharing your stories, ideas, and insights with the world. Built with a focus on performance and scalability.
 
 ## Technologies Used
 
@@ -67,7 +67,7 @@
 
     ```bash
     cd frontend
-    npm start
+    npm run dev
     ```
 
     The frontend will be available at `http://localhost:3000`.
@@ -76,7 +76,7 @@
 
     ```bash
     cd backend
-    npm start
+    npm run dev
     ```
 
     The backend API will be available at `http://localhost:8787`.
